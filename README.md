@@ -1,5 +1,5 @@
 # old-bionic
-Kit to monitor old people in a IoT bracelet using Wemos D1 mini
+Kit to monitor senior people in a IoT bracelet using Wemos D1 mini
 
 ## Components:
 - Wemos D1 Mini
