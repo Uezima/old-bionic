@@ -1,5 +1,5 @@
 # old-bionic
-Kit to monitor senior people in a IoT bracelet using Wemos D1 mini
+This is an IoT project using a Coldplay show bracelet. This bracelet has LEDs and was used in shows with big audiences. I made an adaptation to connect a Wemos D1 Mini with some sensors in the bracelet circuit to monitoring seniors people walking. If the movement sensor detects a fall, the board sends an MQTT request to a NodeJS server warning that probably an emergency occurred
 
 ## Components:
 - Wemos D1 Mini
